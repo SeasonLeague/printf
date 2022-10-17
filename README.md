@@ -12,7 +12,7 @@ This project is a custom made printf function for the C programming language. It
 # COLLABORATORS :rocket:
 
 ### The following persons was a contributor in this ALX project.
-- [Click to see his BIO](https://github.com/utejoe/)
+- [Utejoe JJ](https://github.com/utejoe/)
 ---
 
 # APPRECIATION :smirk:
