@@ -1,4 +1,4 @@
 # Creating Printf Function
 ### collaborators
-* Sammy IYEBHORA --Sammykingx
-* Timmy ADEYEMI --TimmyPR
+* GODSPOWER FRIDAY
+* UYI OBAZEE
